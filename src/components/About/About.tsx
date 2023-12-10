@@ -59,7 +59,7 @@ export function About() {
             <LinkedInIcon />
           </a>
           <a
-            href="/src/assets/CV.pdf"
+            href="https://docs.google.com/document/d/1q0cCCb0OBcN7pTsfW2e_KOqCMcp9ty_yxTrb8VthdE8/edit?usp=sharing"
             aria-label="cv"
             className="link link--icon"
             target="_blank"
